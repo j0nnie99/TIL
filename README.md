@@ -13,6 +13,7 @@
 2022.02
 
 - [2022-02-19](https://github.com/JeongIn37/TIL/blob/master/Algorithm/DFS%26BFS.md)
+- [2022-02-20](https://github.com/JeongIn37/TIL/blob/master/Algorithm/algorithm_basic.md)
 
 
 <!--[작성 양식]
