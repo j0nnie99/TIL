@@ -19,6 +19,7 @@
 - [2022-02-22](https://github.com/JeongIn37/Fintech2022/tree/master/fintech)
 - [2022-02-23](https://github.com/JeongIn37/Fintech2022/tree/master/fintech)
 - [2022-02-24](https://github.com/JeongIn37/Fintech2022/tree/master/fintech)
+- [2022-02-25](https://github.com/JeongIn37/Fintech2022/tree/master/fintech)
 
 
 <!--[작성 양식]
