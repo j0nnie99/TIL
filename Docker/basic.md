@@ -50,3 +50,9 @@ docker system prune -a
 나만의 이미지를 만들기 위한 설계도
 
 - 필요성 → nodejs + http-server가 있어야 실행할 수 있는데 docker hub의 이미지를 사용하면 매번 http-server를 설치해야 함. 따라서 둘을 같이 사용할 수 있는 상태를 이미지로 생성 필요
+
+# Docker Compose
+```docker
+# 실행 명령어
+docker-compose up
+```
